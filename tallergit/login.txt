@@ -1,3 +1,4 @@
 inicio
 
 ingresar_usuario()
+prueba_main(usuario,xtz)
